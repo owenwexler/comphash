@@ -1,0 +1,24 @@
+{
+  "name": "comphash",
+  "version": "1.0.0",
+  "main": "comphash.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owenwexler/comphash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/owenwexler/comphash/issues"
+  },
+  "homepage": "https://github.com/owenwexler/comphash#readme",
+  "description": "",
+  "dependencies": {
+    "vitest": "^3.2.2"
+  }
+}
